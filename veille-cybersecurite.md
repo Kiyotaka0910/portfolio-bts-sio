@@ -115,7 +115,7 @@ Bienvenue sur ma section dédiée à la veille technologique sur la cybersécuri
 
 * **Résumé et analyse :** L’Union européenne a annoncé, le 15 juin 2026, l’intégration de l’Ukraine à sa « réserve de cybersécurité », un mécanisme de réponse collective aux incidents cyber majeurs, géré par l’Agence de l’UE pour la cybersécurité (ENISA). Ce dispositif n’est pas réservé aux États membres de l’UE, mais ouvert à tous les pays tiers liés au programme « Europe numérique ».
 
-![Description de l'image](images/Article12-cyber.jpg)
+![Description de l'image](images/Aerticle12-cyber.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ Bienvenue sur ma section dédiée à la veille technologique sur la cybersécuri
 
 * **Résumé et analyse :** Le site Searcher, un moteur de recherche français donnant accès à des données volées, a annoncé, le 15 juin 2026, la fermeture de sa version gratuite. Ouvert début juin 2026, le site agrège, selon Franceinfo, 1,2 milliard de données issues de piratages informatiques, notamment des bases volées à l’ANTS et à l’Assurance maladie, croisées avec des sources publiques comme l’Insee ou des plateformes administratives. Gratuit lors de son lancement, Searcher a introduit un modèle payant le 12 juin 2026.
 
-![Description de l'image](images/Aerticle13-cyber.jpg)
+![Description de l'image](images/Article13-cyber.jpg)
 
 ---
 
