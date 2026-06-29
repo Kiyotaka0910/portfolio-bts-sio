@@ -9,11 +9,6 @@ Bienvenue sur ma section dédiée à la veille technologique sur l'Intelligence 
 * **Outils de centralisation :** github
 
 ---
-## 🛠️ Mes Outils de Centralisation
-* Google Alerts (Mots-clés : *Generative AI*, *LLM Dev*, *IA Sécurité*)
-* Flux RSS via Feedly
-
----
 
 ## 📰 Mes Articles de Veille
 
