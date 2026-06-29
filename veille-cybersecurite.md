@@ -12,11 +12,11 @@ Bienvenue sur ma section dédiée à la veille technologique sur la cybersécuri
 
 ## 📰 Mes Articles de Veille
 
-### 📑 Article 1 : L’État de New York impose des obligations de cybersécurité dans la gestion de l’eau
-* **Lien vers la source :** https://incyber.org/article/etat-new-york-impose-obligations-cybersecurite-dans-gestion-eau/
+### 📑 Article 1 : Le ministère des Sports victime d’une fuite de données de « Mon compte Asso »
+* **Lien vers la source :** [https://incyber.org/article/ministere-sports-victime-fuite-donnees-mon-compte-asso/]
 * **Résumé et analyse :**
-  L’État de New York a adopté, mi-mars 2026, une nouvelle réglementation sur la cybersécurité de la gestion de l’eau et des eaux usées, qui entrera en vigueur début 2027. Proposées en juillet 2025, ces règles prévoient notamment une formation obligatoire pour les opérateurs certifiés, des plans d’intervention en cas d’incident, des obligations de déclaration et la désignation d’un responsable cyber.
-
+  Le site French Breaches a révélé, le 29 juin 2026, que le ministère des Sports, de la Jeunesse et de la Vie associative avait confirmé qu’une fuite de données affectait le service de demande de subvention « Mon compte Asso ». Dans un courrier, le ministère a indiqué aux associations concernées qu’un pirate informatique avait dérobé une partie des informations saisies avant de les mettre en vente sur un forum cybercriminel.
+![Description de l'image](images/Article1-cyber.jpeg)
 ---
 
 ### 📑 Article 2 : [Mets ici le titre de ton 2e article]
