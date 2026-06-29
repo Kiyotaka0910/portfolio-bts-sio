@@ -4,10 +4,9 @@ Bienvenue sur ma section dédiée à la veille technologique sur l'Intelligence 
 
 ---
 
-## 📌 Mes Axes de Recherche
-1. **L'évolution des outils de génération de code** (GitHub Copilot, LLMs).
-2. **L'intégration de l'IA dans les outils du quotidien** (bureautique, moteurs de recherche).
-3. **L'éthique et la sécurité autour des données d'entraînement**.
+## 📌 Mes Outils de Veille
+* **Sources utilisées :** Le Monde , Feedly
+* **Outils de centralisation :** github
 
 ---
 ## 🛠️ Mes Outils de Centralisation
