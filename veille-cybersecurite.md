@@ -124,7 +124,7 @@ Bienvenue sur ma section dédiée à la veille technologique sur la cybersécuri
 
 * **Résumé et analyse :** Le site Searcher, un moteur de recherche français donnant accès à des données volées, a annoncé, le 15 juin 2026, la fermeture de sa version gratuite. Ouvert début juin 2026, le site agrège, selon Franceinfo, 1,2 milliard de données issues de piratages informatiques, notamment des bases volées à l’ANTS et à l’Assurance maladie, croisées avec des sources publiques comme l’Insee ou des plateformes administratives. Gratuit lors de son lancement, Searcher a introduit un modèle payant le 12 juin 2026.
 
-![Description de l'image](images/Article13-cyber.jpg)
+![Description de l'image](images/Aerticle13-cyber.jpg)
 
 ---
 
@@ -151,6 +151,6 @@ Bienvenue sur ma section dédiée à la veille technologique sur la cybersécuri
 * **Résumé et analyse :** La RATP fait face à une possible fuite de données concernant plus de 62 000 employés. Selon une publication apparue sur un forum du Dark Web, un cybercriminel affirme avoir obtenu un fichier contenant diverses informations professionnelles, telles que les noms, adresses e-mail, fonctions, services, identifiants internes et données organisationnelles des collaborateurs. 
 
 
-![Description de l'image](images/Article16-cyber.jpeg)
+![Description de l'image](images/Article16-cyber.jpg)
 
 ---
