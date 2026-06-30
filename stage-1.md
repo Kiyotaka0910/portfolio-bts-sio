@@ -32,9 +32,16 @@
 
 ---
 
-### 🔹 Mission 2 : [Titre de ta deuxième mission]
-* **Contexte :** [...]
-* **Actions réalisées :** [...]
+### 🔹 Mission 2 : Problème sur les switchs et ports fibres changement.
+* **Contexte :** Mon tuteur de stage c'est aperçu que le raison était lent et que quelques informations avaient du mal à passaient/communniquaient
+* **Actions réalisées :**
+  1. Déplacement directement devant les baies pour regarder directement sur le swtich les ports fibres et les connecteurs fibres
+ 
+  2. changement de connecteurs fibres des switchs
+ 
+  <img src="images/fibre1.jpg" width="25%"/> <img src="images/fibre3.jpg" width="25%"/>
+
+  <img src="images/fibre5.jpg" width="25%"/> <img src="images/fibre7.jpg" width="25%"/> 
 
 ---
 
