@@ -66,7 +66,7 @@
  
   ---
 
-  ### 🔹 Mission 4 : Supprimer des profils dans le registre.
+### 🔹 Mission 4 : Supprimer des profils dans le registre.
 * **Contexte :** Des profils avaient été mal supprimer ou il y avait des comptes dis "fantomes".
 * **Actions réalisées :**
  1. Allez dans la barre de recherche windows
@@ -79,7 +79,29 @@
 
  4. Profile restant = Clique droit supprimer
  
-  ---
-   
+ ---
+
+### 🔹 Mission 5 : Changement de routeur 4G
+* **Contexte :** Problème avec le routeur 4G qui ne permet plus de capter la 4G et donc en concéquences , impossible de voir des informations concernant la production , ceux qui peux entrainer une énorme perte d'argent.
+* **Actions réalisées :**
+ 1. Achat d'un routeur 5G
+ 
+ 2. Récoltez les informations sur l'ancien routeur pour pouvoir le mettre au nouveau routeur
+
+ 3. Progammation du nouveau routeur , on branche le routeur et le pc en direct avec un cable RJ45
+
+ 4. On enléve toute connexion au pc puis après on rentre dans l'invite de commande et on tape : ipconfig
+ 
+  <img src="images/Routeur1.jpg" width="650">
+
+ 5. On prend la passerelle que l'invite de commande nous affiche ici : 192.168.1.1
+
+ 6. On met cette adresse IP dans la barre de recherche se qui va nous amener sur le nouveau routeur et on a plus cas le programmer (mot de passe , passerelle , plage IP ) avec les meme paramètres que l'ancien.
+
+
+  <img src="images/Routeur2.jpg" width="650">
+ 
+ ---
+ 
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
