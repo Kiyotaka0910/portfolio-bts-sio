@@ -102,6 +102,24 @@
   <img src="images/Routeur2.jpg" width="650">
  
  ---
+
+ ### 🔹 Mission 6 : Mise à jour horoqwartz + nouveau java et xCard
+* **Contexte :** Suite à une mise à jours de horoqwart , un problème est survenu dans l'application xCard , ce n'était plus la bonne version et de meme pour java
+* **Actions réalisées :**
+ 1. Changement de version sur les ordinateurs des personnes de la RH
+
+ <img src="images/horo1.jpg" width="25%"/> <img src="images/horo3.jpg" width="25%"/> <img src="images/horo2.jpg" width="25%"/>
  
+ 2. Regardez si les personnes ont les bonnes versions . si elles ne l'ont pas , ont désinstalle puis on reinstalle les bonnes versions
+
+ <img src="images/horo5.jpg" width="25%"/> <img src="images/horo6.jpg" width="25%"/> <img src="images/horo7.jpg" width="25%"/> <img src="images/horo8.jpg" width="25%"/>
+
+ 3. On regerde ensuite si l'application à bien démarrais dans le service puis ont regardes si l'applications à les bon logs.
+
+ <img src="images/horo4.jpg" width="25%"/> <img src="images/horo9.jpg" width="25%"/>
+
+ 5. Une fois que c'est fait , les personnes RH on plus cas tester. 
+
+ ---
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
