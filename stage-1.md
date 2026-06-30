@@ -33,17 +33,41 @@
 ---
 
 ### 🔹 Mission 2 : Problème sur les switchs et ports fibres changement.
-* **Contexte :** Mon tuteur de stage c'est aperçu que le raison était lent et que quelques informations avaient du mal à passaient/communniquaient
+* **Contexte :** Mon tuteur de stage c'est aperçu que le réseau était lent et que quelques informations avaient du mal à passaient/communniquaient
 * **Actions réalisées :**
-  1. Déplacement directement devant les baies pour regarder directement sur le swtich les ports fibres et les connecteurs fibres
+ 1. Déplacement directement devant les baies pour regarder directement sur le swtich les ports fibres et les connecteurs fibres
  
-  2. changement de connecteurs fibres des switchs
+ 2. changement de connecteurs fibres des switchs
  
-  <img src="images/fibre1.jpg" width="25%"/> <img src="images/fibre3.jpg" width="25%"/>
+  <img src="images/fibre1.jpg" width="35%"/> <img src="images/fibre3.jpg" width="25%"/>
 
   <img src="images/fibre5.jpg" width="25%"/> <img src="images/fibre7.jpg" width="25%"/> 
 
+3. Passage sur tout les swtichs de l'entreprises pour voir si il n'y a pas un problème et qu'ils sont bien configurés.
+
+  <img src="images/fibre2.jpg" width="25%"/> <img src="images/fibre4.jpg" width="25%"/>
+
+  <img src="images/fibre6.jpg" width="25%"/> <img src="images/fibre8.jpg" width="25%"/> 
+
 ---
+
+### 🔹 Mission 3 : Problème d'imprimante de l'acceuil.
+L'imprimante n'imprime pas bien , il y a un problème de résolution
+* **Contexte :** Mon tuteur de stage c'est aperçu que le réseau était lent et que quelques informations avaient du mal à passaient/communniquaient
+* **Actions réalisées :**
+ 1. Déplacement vers l'imprimante pour relever son identifiant ici l'imprimante avait pour identifiant : CSTIMP003
+ 
+ 2. Recherchez dans le KEPASS l'imprimante pour avoir son adresse IP
+
+ 3. Se connecter à l'imprimante en tapant son adresse IP dans la barre de recherche
+ 
+  <img src="images/img5.jpg" width="700">
+   
+3. Passage sur tout les swtichs de l'entreprises pour voir si il n'y a pas un problème et qu'ils sont bien configurés.
+
+   <img src="images/fibre2.jpg" width="25%"/> <img src="images/fibre4.jpg" width="25%"/>
+
+  <img src="images/fibre6.jpg" width="25%"/> <img src="images/fibre8.jpg" width="25%"/> 
 
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
