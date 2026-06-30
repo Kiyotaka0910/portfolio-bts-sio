@@ -10,7 +10,7 @@
 
 ## 🛠️ Missions et Réalisations
 
-### 🔹 Mission 1 : Installatoin d'un window 11 sur un poste 
+### 🔹 Mission 1 : Installatoin d'un window 11 sur plusieurs postes 
 * **Contexte :** L'ancien PC avait déja un window mais c'étais window 10 , j'ai donc du lui mettre un window 11 . 
 * **Actions réalisées :**
  1. Mettre la clé qui contient window 11 avant de démarrer le pc
@@ -51,23 +51,19 @@
 
 ---
 
-### 🔹 Mission 3 : Problème d'imprimante de l'acceuil.
-L'imprimante n'imprime pas bien , il y a un problème de résolution
-* **Contexte :** Mon tuteur de stage c'est aperçu que le réseau était lent et que quelques informations avaient du mal à passaient/communniquaient
+### 🔹 Mission 3 : Problème d'imprimante de l'acceuil. L'imprimante n'imprime pas bien , il y a un problème de résolution
+* **Contexte :** La personne de la RH est passé me voir en m'informant que l'imprimante de l'acceuil avait un problème en me montrant aussi comment elle imprimer .
 * **Actions réalisées :**
- 1. Déplacement vers l'imprimante pour relever son identifiant ici l'imprimante avait pour identifiant : CSTIMP003
+ 1. Déplacement vers l'imprimante pour relever son identifiant . ici l'imprimante avait pour identifiant : CSTIMP003
  
  2. Recherchez dans le KEPASS l'imprimante pour avoir son adresse IP
 
  3. Se connecter à l'imprimante en tapant son adresse IP dans la barre de recherche
  
-  <img src="images/img5.jpg" width="700">
+  <img src="images/imp.jpg" width="700">
+
+ 4. Modification de la résolution et problème résolu.
+  ---
    
-3. Passage sur tout les swtichs de l'entreprises pour voir si il n'y a pas un problème et qu'ils sont bien configurés.
-
-   <img src="images/fibre2.jpg" width="25%"/> <img src="images/fibre4.jpg" width="25%"/>
-
-  <img src="images/fibre6.jpg" width="25%"/> <img src="images/fibre8.jpg" width="25%"/> 
-
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
