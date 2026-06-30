@@ -63,6 +63,22 @@
   <img src="images/imp.jpg" width="700">
 
  4. Modification de la résolution et problème résolu.
+ 
+  ---
+
+  ### 🔹 Mission 4 : Supprimer des profils dans le registre.
+* **Contexte :** Des profils avaient été mal supprimer ou il y avait des comptes dis "fantomes".
+* **Actions réalisées :**
+ 1. Allez dans la barre de recherche windows
+ 
+ 2. Tapez "registre"
+
+ 3. Puis faire le chemin suivant :HKEY_LOCAL-MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-2982668248-3278174299-2008956933-1001
+ 
+  <img src="images/registre.jpg" width="650">
+
+ 4. Profile restant = Clique droit supprimer
+ 
   ---
    
 ## 📈 Bilan du Stage
