@@ -121,5 +121,14 @@
  5. Une fois que c'est fait , les personnes RH on plus cas tester. 
 
  ---
+
+  ### 🔹 Mission 7 : Codage d'un mini logiciel
+* **Contexte :** Codage d'un mini logiciel qui permet de faire le numéro du spport informatique , le nom du pc et un URL qui redirige vers GLPI
+* **Actions réalisées :**
+ 1. Codage d'un mini logiciel sur notepad sauvergardé en .bat où le but est de facilité la vie d'abord à l'informatique grace au nom du pc qui est afficher sur l'écran si on veut prendre le controle du pc à distance et aussi au personne qui utilise le pc qui ne perdrons pas de temps à chercher le nom quand on leur demande. De plus un accès plus facile au utilisateur pour pouvoir accèder à GLPI pour faire des tickets quand ils ont des problèmes et non venir nous soliciter en venant nous voir directement.
+ 
+ <img src="images/Desk1.jpg" width="25%"/> <img src="images/Desk2.jpg" width="25%"/> <img src="images/Desk3.jpg" width="25%"/>
+ 
+ ---
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
