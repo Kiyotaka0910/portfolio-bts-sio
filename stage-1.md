@@ -13,13 +13,24 @@
 ### 🔹 Mission 1 : Installatoin d'un window 11 sur un poste 
 * **Contexte :** L'ancien PC avait déja un window mais c'étais window 10 , j'ai donc du lui mettre un window 11 . 
 * **Actions réalisées :**
-  1. Mettre la clé qui contient window 11 avant de démarrer le pc.
-  2. Allumez le pc en cliquant en continue sur F12 pour pouvoir acceder au BIOS
-  3. Sélectionnez la clé qui contient window 11
+ 1. Mettre la clé qui contient window 11 avant de démarrer le pc
 
-  4. 
-* **Technologies utilisées :** [Ex: Windows Server, Linux, Cisco, Wireshark...]
-* **Compétences du tableau de synthèse associées :** [Ex: Répondre aux incidents, Gérer le patrimoine informatique]
+ 2. Allumez le pc en cliquant en continue sur F12 pour pouvoir acceder au BIOS
+
+ 3. Sélectionnez la clé qui contient window 11
+<img src="images/img5.jpg" width="700">
+ 
+ 4. Poursuite de l'installation de window (langue , disque , nom )
+
+<img src="images/img1.jpg" width="25%"/> <img src="images/img3.jpg" width="25%"/> <img src="images/img4.jpg" width="25%"/>
+
+<img src="images/img6.jpg" width="25%"/> <img src="images/img7.jpg" width="25%"/> <img src="images/img8.jpg" width="25%"/>
+
+5. Une fois l'installation faites , il manque plus cas mettre l'ordinateur dans le domaine .
+
+<img src="images/img2.jpg" width="700">
+
+---
 
 ### 🔹 Mission 2 : [Titre de ta deuxième mission]
 * **Contexte :** [...]
