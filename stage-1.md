@@ -1,20 +1,23 @@
 # 💼 Stage de 1ère Année
 
 ## 🏢 Présentation de l'Entreprise
-* **Nom :** [Nom de l'entreprise ou organisation]
-* **Secteur d'activité :** [Ex: Service informatique, Collectivité, Administration...]
-* **Période :** [Ex: Mai - Juin 2026]
+* **Nom :** Occitanes Plats Cuisinés
+* **Secteur d'activité :** Service informatique
+* **Période :** 11 mai au 26 juin
 * **Mon rôle :** Stagiaire Informatique (Support et Réseau / Développement)
 
 ---
 
 ## 🛠️ Missions et Réalisations
 
-### 🔹 Mission 1 : [Titre de ta première grosse mission]
-* **Contexte :** [Quel était le problème ou le besoin au départ ?]
+### 🔹 Mission 1 : Installatoin d'un window 11 sur un poste 
+* **Contexte :** L'ancien PC avait déja un window mais c'étais window 10 , j'ai donc du lui mettre un window 11 . 
 * **Actions réalisées :**
-  1. [Action 1, ex: Installation et configuration d'un poste]
-  2. [Action 2, ex: Déploiement d'une solution de sauvegarde]
+  1. Mettre la clé qui contient window 11 avant de démarrer le pc.
+  2. Allumez le pc en cliquant en continue sur F12 pour pouvoir acceder au BIOS
+  3. Sélectionnez la clé qui contient window 11
+
+  4. 
 * **Technologies utilisées :** [Ex: Windows Server, Linux, Cisco, Wireshark...]
 * **Compétences du tableau de synthèse associées :** [Ex: Répondre aux incidents, Gérer le patrimoine informatique]
 
