@@ -164,13 +164,12 @@
 * **Actions réalisées :**
  1. Tout d'abord , pour accèder au swtich , j'ai du connecter un switch de l'entreprise au switch que je veux configuré avec un cable RJ45.
  
- <img src="images/sign5.jpg" width="25%"/> <img src="images/sign9.jpg" width="25%"/> 
+ <img src="images/switch1.jpg" width="700">
 
-2. Dans se site , j'ai fais en sorte que le logo soit clicable (il amène sur la page officiel de lasociété) , et que tout les url fonctionnent et soient clicable aussi en fonction des société.
+2. Une fois branché , j'allume putty et je met l'adresse IP du swithc de l'entreprise branché à l'autre switch non configuré , ici : 192.168.30.150
+   Ensuite , pour pouvoir accèder en ligne de commande au switch de l'entreprise , il me faut plus que mettre l'identifiant et le mot de passedu switch dans lequel je suis rentré.
 
-<img src="images/sign1.jpg" width="25%"/> <img src="images/sign2.jpg" width="25%"/> <img src="images/sign3.jpg" width="25%"/>
-
-<img src="images/sign4.jpg" width="25%"/> <img src="images/sign6.jpg" width="25%"/> <img src="images/sign7.jpg" width="25%"/>
+<img src="images/switch2.jpg" width="25%"/> <img src="images/switch4.jpg" width="25%"/>
 
 3. cette signature à été mise à disposition pour toutes les société de faire en sorte que à chaque fin de mail , il y est la signature avec la photo de profil de la personne et la société avec les liens clicavle si la personne veut contacter la société ou la personne en elle meme via le liens teams dans le mail.
  
