@@ -171,8 +171,18 @@
 
 <img src="images/switch2.jpg" width="25%"/> <img src="images/switch4.jpg" width="25%"/>
 
-3. cette signature à été mise à disposition pour toutes les société de faire en sorte que à chaque fin de mail , il y est la signature avec la photo de profil de la personne et la société avec les liens clicavle si la personne veut contacter la société ou la personne en elle meme via le liens teams dans le mail.
- 
+3. Une fois dans le switch , je regarde sur je me suis branché sur le switch principale et non sur le switch que je veux configuré (ici le port est 19).
+Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le port 19).
+
+ <img src="images/switch3.jpg" width="700">
+
+ 4. En tpant le commande , ça ma donné les information concernant l'autre switch non configuré et à partir de la , je taper l'IP du switch non configuré dans la barre de recherche et le programmer comme les autres ou je peux très bien aussi le faire en ligne de commande putty (personnellement j'ai fais les 2)
+
+ <img src="images/fibre2.jpg" width="25%"/> <img src="images/fibre4.jpg" width="25%"/>
+
+ <img src="images/fibre6.jpg" width="25%"/> <img src="images/fibre8.jpg" width="25%"/> 
+
  ---
+ 
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
