@@ -201,8 +201,8 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
  1. Connexion à une machine virtuelle.
 
  2. Allez dans dossier/propriété/sécurité/modifier , puis on rajoute la personne ou le groupe de sécurité dans le dossier pour qu'ils puissent y accéder. ( il est possible de le faire sur l'AD directement et concseiller pour une meilleur organisation )
- 
- <img src="images/impriii1.jpg" width="25%"/> <img src="images/dossier.png" width="25%"/>
+
+<img src="images/dossier.png" width="700">
 
  ---
 
