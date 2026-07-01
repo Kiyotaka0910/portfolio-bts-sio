@@ -4,9 +4,11 @@
 
 ---
 
-## 👤 Présentation  
+## 👤 Présentation 
 
-Je suis actuellement étudiant en 1ère année de BTS SIO en option **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux). Passionné par les infrastructures réseaux, la cybersécurité et l'administration système, je développe mes compétences à travers mes cours, mes projets et ma veille technologique.
+<img src="images/photo.png" width="15%"/>
+
+Je suis actuellement étudiant en 1ère année de BTS SIO en option **SISR** (Solutions d'Infrastructure, Systèmes et Réseaux). Passionné par les infrastructures réseaux, la cybersécurité et l'administration système, je développe mes compétences à travers mes cours, mes projets et ma veille technologique. 
 
 
 > [!NOTE]
