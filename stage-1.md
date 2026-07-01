@@ -142,10 +142,27 @@
  
  ---
 
-   ### 🔹 Mission 9 : Site outil de signature
+ ### 🔹 Mission 9 : Site outil de signature
 * **Contexte :** J'ai du creer une page qui va servire à générer une signature en fonction de la société où l'on se trouve.
 * **Actions réalisées :**
  1. J'ai donc creer 4 fichiers. 1 pour la page html , 2 en .js pour la data et l'app et un autre fichier qui contient les css.
+ 
+ <img src="images/sign5.jpg" width="25%"/> <img src="images/sign9.jpg" width="25%"/> 
+
+2. Dans se site , j'ai fais en sorte que le logo soit clicable (il amène sur la page officiel de lasociété) , et que tout les url fonctionnent et soient clicable aussi en fonction des société.
+
+<img src="images/sign1.jpg" width="25%"/> <img src="images/sign2.jpg" width="25%"/> <img src="images/sign3.jpg" width="25%"/>
+
+<img src="images/sign4.jpg" width="25%"/> <img src="images/sign6.jpg" width="25%"/> <img src="images/sign7.jpg" width="25%"/>
+
+3. cette signature à été mise à disposition pour toutes les société de faire en sorte que à chaque fin de mail , il y est la signature avec la photo de profil de la personne et la société avec les liens clicavle si la personne veut contacter la société ou la personne en elle meme via le liens teams dans le mail.
+ 
+ ---
+
+  ### 🔹 Mission 10 : Programmation de 2 swtich HP Aruba
+* **Contexte :** Dans l'étagère , il y avait 2 switch non utiliser qui servent à remplacer au cas où si un swtich tombe , on met le remplacent. Problème , c'est 2 switchs ne sont pas programmer il n'y a rien de fait dessus ,j'ai donc du les programmer afin qu'ils soient près au déploiement.
+* **Actions réalisées :**
+ 1. Tout d'abord , pour accèder au swtich , j'ai du connecter un switch de l'entreprise au switch que je veux configuré avec un cable RJ45.
  
  <img src="images/sign5.jpg" width="25%"/> <img src="images/sign9.jpg" width="25%"/> 
 
