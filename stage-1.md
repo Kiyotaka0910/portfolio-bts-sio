@@ -196,13 +196,13 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
  ---
 
   ### 🔹 Mission 12 : Partage de fichier
-* **Contexte :** Les imprimantes mises en prod peuvent parfois avoir des problèmes d'impression , des tickets qui imprime pas , perte de connexion (cable RJ45 cassé ou encore oxydé),problème d'écran , de rouleau. Je suis donc chargais de faire en sorte que les imprimantes marchent et les réparers dans les plus bref délai caer sinon ca peut bloquer un ligne de production.
+* **Contexte :** Un personne avait besoin de pouvoir accèder à un fichier
 * **Actions réalisées :**
- 1. Dans le cas ci contre , j'avais récuper 3 imprimante avec 1 écran cassé , une carte mère que ne marchais plus .
+ 1. Connexion à une machine virtuelle.
 
- 2. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3 imprimantes.
+ 2. Allez dans dossier/propriété/sécurité/modifier , puis on rajoute la personne ou le groupe de sécurité dans le dossier pour qu'ils puissent y accéder. ( il est possible de le faire sur l'AD directement et concseiller pour une meilleur organisation )
  
- <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/>
+ <img src="images/impriii1.jpg" width="25%"/> <img src="images/dossier.png" width="25%"/>
 
  ---
 
