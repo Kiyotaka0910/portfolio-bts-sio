@@ -194,6 +194,18 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
  <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/> <img src="images/impriii3.jpg" width="25%"/> <img src="images/impriii4.jpg" width="20%"/>
 
  ---
+
+ ### 🔹 Autres missions : Voici quelques autres missions que j'ai pu faire mais cette fois si directement en prod (impossible de filmer en prod avec son téléphone personelle car il est interdit de la prendre
+* **Actions réalisées :**
+ 1. Ajout d'un écran + d'un boitier dock HP pour les PC portable
+
+ 
+
+ 3. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3 imprimantes.
+ 
+ <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/> <img src="images/impriii3.jpg" width="25%"/> <img src="images/impriii4.jpg" width="20%"/>
+
+ ---
  
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
