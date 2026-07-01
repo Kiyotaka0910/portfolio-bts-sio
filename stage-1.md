@@ -183,6 +183,17 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
  <img src="images/fibre6.jpg" width="25%"/> <img src="images/fibre8.jpg" width="25%"/> 
 
  ---
+
+  ### 🔹 Mission 11 : Problème sur les imprimantes qui sont en prod
+* **Contexte :** Les imprimantes mises en prod peuvent parfois avoir des problèmes d'impression , des tickets qui imprime pas , perte de connexion (cable RJ45 cassé ou encore oxydé),problème d'écran , de rouleau. Je suis donc chargais de faire en sorte que les imprimantes marchent et les réparers dans les plus bref délai caer sinon ca peut bloquer un ligne de production.
+* **Actions réalisées :**
+ 1. Dans le cas ci contre , j'avais récuper 3 imprimante avec 1 écran cassé , une carte mère que ne marchais plus .
+
+ 2. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3
+ 
+ <img src="images/switch1.jpg" width="700">
+
+ ---
  
 ## 📈 Bilan du Stage
 Ce stage m'a permis de découvrir le fonctionnement d'un service informatique en conditions réelles. J'ai pu développer mon autonomie, ma rigueur et apprendre à [cite une compétence humaine ou technique marquante].
