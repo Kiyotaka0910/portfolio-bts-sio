@@ -122,12 +122,23 @@
 
  ---
 
-  ### 🔹 Mission 7 : Codage d'un mini logiciel
+ ### 🔹 Mission 7 : Codage d'un mini logiciel
 * **Contexte :** Codage d'un mini logiciel qui permet de faire le numéro du spport informatique , le nom du pc et un URL qui redirige vers GLPI
 * **Actions réalisées :**
  1. Codage d'un mini logiciel sur notepad sauvergardé en .bat où le but est de facilité la vie d'abord à l'informatique grace au nom du pc qui est afficher sur l'écran si on veut prendre le controle du pc à distance et aussi au personne qui utilise le pc qui ne perdrons pas de temps à chercher le nom quand on leur demande. De plus un accès plus facile au utilisateur pour pouvoir accèder à GLPI pour faire des tickets quand ils ont des problèmes et non venir nous soliciter en venant nous voir directement.
  
  <img src="images/Desk1.jpg" width="25%"/> <img src="images/Desk2.jpg" width="25%"/> <img src="images/Desk3.jpg" width="25%"/>
+ 
+ ---
+
+  ### 🔹 Mission 8 : Site pour les badges
+* **Contexte :** La personne est venu me voir en me montrant la base de son site pour les badges des personnes. Elle m'a ensuite demandé de modifier son site en me donnant se qu'elle voulait y mettre dedans .
+* **Actions réalisées :**
+ 1. J'ai donc creer un site pour les badges en .bat avec un fichier .json que l'on doit choisir avant de rentrer sur le site. Une fois le fichier json choisit ou creer , à chaque modification sur le site , le fichier se met à jour automatiquement comme ca si quelqu'un est sur le site en meme temps il n'y a pas d'écrasement sur la dernière modification pas enregistrer.
+ 
+ <img src="images/site1.jpg" width="25%"/> <img src="images/site2.jpg" width="25%"/> <img src="images/site3.jpg" width="25%"/>
+
+  <img src="images/site4.jpg" width="25%"/> <img src="images/site5.jpg" width="25%"/> <img src="images/site6.jpg" width="25%"/>
  
  ---
 ## 📈 Bilan du Stage
