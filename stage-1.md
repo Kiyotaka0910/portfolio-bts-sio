@@ -195,15 +195,35 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
 
  ---
 
- ### 🔹 Autres missions : Voici quelques autres missions que j'ai pu faire mais cette fois si directement en prod (impossible de filmer en prod avec son téléphone personelle car il est interdit de la prendre
+  ### 🔹 Mission 12 : Partage de fichier
+* **Contexte :** Les imprimantes mises en prod peuvent parfois avoir des problèmes d'impression , des tickets qui imprime pas , perte de connexion (cable RJ45 cassé ou encore oxydé),problème d'écran , de rouleau. Je suis donc chargais de faire en sorte que les imprimantes marchent et les réparers dans les plus bref délai caer sinon ca peut bloquer un ligne de production.
 * **Actions réalisées :**
- 1. Ajout d'un écran + d'un boitier dock HP pour les PC portable
+ 1. Dans le cas ci contre , j'avais récuper 3 imprimante avec 1 écran cassé , une carte mère que ne marchais plus .
 
+ 2. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3 imprimantes.
  
+ <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/>
 
- 3. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3 imprimantes.
- 
- <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/> <img src="images/impriii3.jpg" width="25%"/> <img src="images/impriii4.jpg" width="20%"/>
+ ---
+
+ ### 🔹 Autres missions : Voici quelques autres missions que j'ai pu faire mais cette fois si directement en prod (impossible de filmer en prod avec son téléphone personelle car il est interdit de la prendre accause des régles d'hygiène de l'entreprise)
+* **Actions réalisées :**
+### 1 : Ajout d'un écran + d'un boitier dock HP pour les PC portable
+
+  <img src="images/HP.jpg" width="700">
+
+### 2 : Plusieurs problèmes de scanner :problème de batterie : 
+* **A :** changement de la batterie + regarder si le socle charge bien
+* **B :** problème de scan : changement de base et de cable + reset du scan
+* **C :** problème lié directement avec l'écran IPO : impossible de scnanner et / ou impossible de le connecter à l'IPO donc appelle du spport Copilote si je n'y arrivais pas
+
+ <img src="images/scan.jpg" width="25%"/> <img src="images/ipo.jpg" width="25%"/>
+
+### 3 : Changement ou casse de téléphone portable :
+* **A :** Ajout de l'ancienne carte sim sur le nouveau téléphone + transfère de données sur le nouveau téléphone
+* **B :** installation des applications nécessaires pour le poste où est la personne + de comment va étre utiliser le portable
+
+ <img src="images/tel.jpg" width="25%"/>
 
  ---
  
