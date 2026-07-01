@@ -189,9 +189,9 @@ Et je tape ensuite la commande : show lldp info remote-device 19 (19 pour le por
 * **Actions réalisées :**
  1. Dans le cas ci contre , j'avais récuper 3 imprimante avec 1 écran cassé , une carte mère que ne marchais plus .
 
- 2. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3
+ 2. J'ai donc fais mon possible et j'ai réussi a en réparer 2 sur les 3 imprimantes.
  
- <img src="images/switch1.jpg" width="700">
+ <img src="images/impriii1.jpg" width="25%"/> <img src="images/impriii2.jpg" width="25%"/> <img src="images/impriii3.jpg" width="25%"/> <img src="images/impriii4.jpg" width="20%"/>
 
  ---
  
